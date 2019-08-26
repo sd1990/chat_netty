@@ -1,0 +1,36 @@
+package org.songdan.chat.common.enumeration;
+
+/**
+ * Created by SinjinSong on 2017/5/23.
+ */
+public enum MessageType {
+    LOGIN(1,"登录"),
+    LOGOUT(2,"注销"),
+    NORMAL(3,"普通消息"),
+    BROADCAST(4,"广播消息"),
+    ;
+    
+    private int code;
+    private String  desc;
+
+    MessageType(int code, String desc) {
+        this.code = code;
+        this.desc = desc;
+    }
+
+    public int getCode() {
+        return code;
+    }
+
+    public void setCode(int code) {
+        this.code = code;
+    }
+
+    public String getDesc() {
+        return desc;
+    }
+
+    public void setDesc(String desc) {
+        this.desc = desc;
+    }
+}

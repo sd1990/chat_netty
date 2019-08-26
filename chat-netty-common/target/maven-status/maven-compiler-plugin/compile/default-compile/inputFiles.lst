@@ -1,0 +1,13 @@
+/Users/songdan/github/chat_netty/chat-netty-common/src/main/java/org/songdan/chat/common/domain/Message.java
+/Users/songdan/github/chat_netty/chat-netty-common/src/main/java/org/songdan/chat/common/domain/ResponseHeader.java
+/Users/songdan/github/chat_netty/chat-netty-common/src/main/java/org/songdan/chat/common/domain/Response.java
+/Users/songdan/github/chat_netty/chat-netty-common/src/main/java/org/songdan/chat/common/enumeration/ResponseType.java
+/Users/songdan/github/chat_netty/chat-netty-common/src/main/java/org/songdan/chat/common/domain/User.java
+/Users/songdan/github/chat_netty/chat-netty-common/src/main/java/org/songdan/chat/common/domain/MessageHeader.java
+/Users/songdan/github/chat_netty/chat-netty-common/src/main/java/org/songdan/chat/common/util/ProtoStuffUtil.java
+/Users/songdan/github/chat_netty/chat-netty-common/src/main/java/org/songdan/chat/common/enumeration/MessageType.java
+/Users/songdan/github/chat_netty/chat-netty-common/src/main/java/org/songdan/chat/common/enumeration/TaskType.java
+/Users/songdan/github/chat_netty/chat-netty-common/src/main/java/org/songdan/chat/common/enumeration/ResponseCode.java
+/Users/songdan/github/chat_netty/chat-netty-common/src/main/java/org/songdan/chat/common/util/ZipUtil.java
+/Users/songdan/github/chat_netty/chat-netty-common/src/main/java/org/songdan/chat/common/util/DateTimeUtil.java
+/Users/songdan/github/chat_netty/chat-netty-common/src/main/java/org/songdan/chat/common/util/FileUtil.java
